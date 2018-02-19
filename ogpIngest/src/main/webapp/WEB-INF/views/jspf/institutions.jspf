@@ -2,7 +2,7 @@
 					<h4>Institution (select one)</h4>
 				</label>
 				<select id="institution" name="institution">
-					<option value="Tufts">Tufts</option>
+					<!-- <option value="Tufts">Tufts</option>
 					<option value="Harvard">Harvard</option>
 					<option value="MIT">MIT</option>
 					<option value="MassGIS">MassGIS</option>
@@ -12,5 +12,6 @@
 					<option value="UN">UN</option>
 					<option value="UNWFP">UN WFP</option>
 					<option value="OKGIS">OK GIS</option>
-					<option value="USGS">USGS</option>
+					<option value="USGS">USGS</option> -->
+					<option value="NARSS">NARSS</option>
 				</select>
